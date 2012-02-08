@@ -1,0 +1,43 @@
+#--------- Useful functions
+alias cls='clear'
+alias lo='exit'
+alias m='less'
+alias rmbackup='rm *~'
+alias ls='ls -F'
+alias ll='ls -l'
+alias vim='/usr/local/bin/vim'
+alias top='top -o cpu'
+
+#---------Random aliases --- that come and go
+alias py='ipython -pylab -p root'
+alias ipython='ipython-2.7'
+alias op='open -a /Applications/Preview.app'
+
+#--------- LaTeX
+alias texit='latexmk -pvc -pdf' 
+
+#-------- SSH aliases
+# LBL machines
+# Note that tobaryon requires both your OTP and your baryon ssh keyphrase
+# This connects through localhost
+alias cosmology='ssh cosmology.lbl.gov'
+alias lrc='ssh lrc-login.lbl.gov'
+alias scsgw='ssh scs-gw.lbl.gov'
+
+# NCSA
+alias cobalt='ssh paddy@cobalt.ncsa.uiuc.edu'
+
+# NERSC
+alias jacquard='ssh npadmana@jacquard.nersc.gov'
+alias davinci='ssh npadmana@davinci.nersc.gov'
+alias franklin='ssh npadmana@franklin.nersc.gov'
+
+# Yale machines
+alias ajax='ssh np274@ajax.its.yale.edu'
+alias ares='ssh np274@ares.its.yale.edu'
+alias bulldogj='ssh np274@bulldogj.wss.yale.edu'
+alias bulldogk='ssh np274@bulldogk.wss.yale.edu'
+alias bdmtunnel='ssh -f bdmtunnel sleep 120'
+alias bdmpostgres='autossh -M 0 -N -q bdmpostgres'
+alias bdmpsql='psql90 --host localhost -p 63333 -U np274 np274'
+
