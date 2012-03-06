@@ -13,3 +13,5 @@
   _describe -t sessions 'sessions' sessions "$@"
   }
   compdef __tmux-sessions tm
+
+tm "$@"
