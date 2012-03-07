@@ -1,0 +1,10 @@
+[user]
+  name = Nikhil Padmanabhan
+  email = nikhil.padmanabhan@yale.edu
+
+
+[alias] 
+  ci = commit
+  st = status
+  svnup = svn rebase --all
+  svnci = svn dcommit
