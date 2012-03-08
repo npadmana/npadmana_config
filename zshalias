@@ -11,6 +11,7 @@ alias top='top -o cpu'
 #---------Random aliases --- that come and go
 alias py='ipython --pylab --no-banner --profile=root'
 alias ipython='ipython-2.7'
+alias math='/Applications/Mathematica.app/Contents/MacOS/MathKernel'
 alias op='open -a /Applications/Preview.app'
 
 #--------- LaTeX
