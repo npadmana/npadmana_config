@@ -9,7 +9,7 @@ alias vim='/usr/local/bin/vim'
 alias top='top -o cpu'
 
 #---------Random aliases --- that come and go
-alias py='ipython -pylab -p root'
+alias py='ipython --pylab --no-banner --profile=root'
 alias ipython='ipython-2.7'
 alias op='open -a /Applications/Preview.app'
 
