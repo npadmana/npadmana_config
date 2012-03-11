@@ -1,6 +1,9 @@
 # Editor stuff
 bindkey -v
 
+# Turn off annoying beeping
+unsetopt BEEP
+
 # Prompts
 PROMPT="[%m:%2c]$ "
 
