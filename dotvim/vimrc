@@ -44,8 +44,6 @@ autocmd BufNewFile *.{h,hpp} call <SID>insert_gates()
 " -----------------------------------------------------------------------------  
 
 " buftab
-map <C-left> :bprev<CR>
-map <C-right> :bnext<CR>
 set laststatus=2
 :let g:buftabs_in_statusline=1
 
