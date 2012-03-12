@@ -27,6 +27,11 @@ set grepprg=grep\ -nH\ $*
 let g:tex_flavor='latex'
 set iskeyword+=:
 let g:Tex_ViewRuleComplete_pdf = 'open -a /Applications/Preview.app $*.pdf'
+" Turn off LatexSuite completions --- use snipmate instead, which is more
+" easy to configure
+let g:Tex_EnvironmentMaps = 0
+let g:Tex_FontMaps = 0
+let g:Tex_SectionMaps = 0
 
 " C++ configurations
 function! s:insert_gates()
