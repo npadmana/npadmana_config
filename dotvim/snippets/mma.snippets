@@ -1,0 +1,15 @@
+snippet ---
+	(*----------------------------------*)
+
+
+snippet package
+	BeginPackage["${1:name}"]
+	${2}
+	Begin["${3}"]
+	${4}
+	End[]
+	EndPackage[]
+	
+snippet func
+	${1:funcname}::usage = "${2}"
+	$1[${3}] := Module[{${4}}, ${5}];
