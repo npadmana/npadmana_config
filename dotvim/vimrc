@@ -32,6 +32,7 @@ let g:Tex_ViewRuleComplete_pdf = 'open -a /Applications/Preview.app $*.pdf'
 let g:Tex_EnvironmentMaps = 0
 let g:Tex_FontMaps = 0
 let g:Tex_SectionMaps = 0
+let filetype_m = "mma"
 
 " C++ configurations
 function! s:insert_gates()
