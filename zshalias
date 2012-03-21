@@ -5,7 +5,6 @@ alias m='less'
 alias rmbackup='rm *~'
 alias ls='ls -F'
 alias ll='ls -l'
-alias vim='/usr/local/bin/vim'
 alias top='top -o cpu'
 
 #---------Random aliases --- that come and go
@@ -14,6 +13,8 @@ alias ipython='ipython-2.7'
 alias math='/Applications/Mathematica.app/Contents/MacOS/MathKernel'
 alias mathgui='open /Applications/Mathematica.app/'
 alias op='open -a /Applications/Preview.app'
+alias vim='~/bin/vim'
+alias vi='~/bin/vim'
 
 #--------- LaTeX
 alias texit='latexmk -pvc -pdf' 
