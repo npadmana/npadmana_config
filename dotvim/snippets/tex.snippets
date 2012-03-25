@@ -113,3 +113,10 @@ snippet section
 	${1:Section}~\ref{${2:sec:}}${3}
 snippet page
 	${1:page}~\pageref{${2}}${3}
+snippet fig
+	\begin{figure}
+	\centering
+	\resizebox{0.9\columnwidth}{!}{\includegraphics{${1:fn}}}
+	\label{fig:${2:label}}
+	\end{figure}
+		
