@@ -22,6 +22,9 @@ export PATH=$PATH:~/QtSDK/Desktop/Qt/473/gcc/bin
 export BDMPOSTGRES='postgresql://np274:rpf0904@localhost:63333'
 export MYPOSTGRES='postgresql://npadmana@localhost:5432'
 
+# Go
+export GOROOT=/usr/local/go
+export GOPATH=/Users/npadmana/myWork/go
 
 # TeX
 export TEXINPUTS=.:~/texmf//:
