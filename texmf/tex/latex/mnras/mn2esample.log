@@ -1,0 +1,150 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/MacPorts 2010_2) (format=pdflatex 2011.3.3)  1 APR 2011 21:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**mn2esample.tex
+(./mn2esample.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, cz
+ech, slovak, dutch, ukenglish, usenglishmax, basque, french, german-x-2009-06-1
+9, ngerman-x-2009-06-19, german, ngerman, swissgerman, italian, polish, portugu
+ese, spanish, catalan, galician, loaded.
+(./mn2e.cls
+Document Class: mn2e 2001/02/06 v2.2 LaTeX2e MN document class
+Document Style `MN' v2.2, released 2001 February 20
+\math@groups=\toks14
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/cmsy/b/n on input line 223.
+\symbmisymbols=\mathgroup4
+\symUPM=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `UPM' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 260.
+\symAMSa=\mathgroup6
+\SFB@measure=\dimen102
+\realparindent=\skip41
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\@indentskip=\skip42
+\smallindent=\skip43
+\@footindent=\skip44
+\@leftskip=\skip45
+\c@dummy=\count85
+(/opt/local/share/texmf-texlive-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2009/11/07 8.31a (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count86
+)
+\c@table=\count87
+\c@figure=\count88
+\mathindent=\dimen103
+)
+(./mn2esample.aux)
+\openout1 = `mn2esample.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 57.
+LaTeX Font Info:    Try loading font information for U+eur on input line 57.
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2009/06/22 v3.00 Euler Roman
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 57.
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 57.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+$[]$ []\OT1/cmr/m/n/8 E-mail: email@address (AVR); oth-ere-mail@otheraddress
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 96.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 191.
+
+(/opt/local/share/texmf-texlive-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 191.
+ [1{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Underfull \vbox (badness 1231) has occurred while \output is active []
+
+ [2]
+[3] [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+[6] [7] (./mn2esample.aux) ) 
+Here is how much of TeX's memory you used:
+ 958 strings out of 494770
+ 10467 string characters out of 3171434
+ 76782 words of memory out of 3000000
+ 4219 multiletter control sequences out of 15000+200000
+ 17559 words of font info for 61 fonts, out of 3000000 for 9000
+ 134 hyphenation exceptions out of 8191
+ 31i,17n,34p,677b,385s stack positions out of 5000i,500n,10000p,200000b,50000s
+</opt/local/share/texmf-texlive-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx8.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx9.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/publ
+ic/amsfonts/cm/cmcsc10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi9.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public
+/amsfonts/cmextra/cmmib9.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr5.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/
+amsfonts/cm/cmr8.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/am
+sfonts/cm/cmr9.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsf
+onts/cm/cmsy6.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfo
+nts/cm/cmsy8.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfon
+ts/cm/cmsy9.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfont
+s/cm/cmti10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfont
+s/cm/cmti12.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfont
+s/cm/cmti8.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts
+/cm/cmti9.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/
+cm/cmtt8.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/e
+uler/eurm10.pfb>
+Output written on mn2esample.pdf (7 pages, 323273 bytes).
+PDF statistics:
+ 136 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

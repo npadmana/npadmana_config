@@ -1,0 +1,22 @@
+
+This is the 'axodraw' system. Currently it is used for drawing
+Feynman diagrams in the contents of a LaTeX document.
+This system was made by Jos Vermaseren and can be used freely for
+non commercial purposes only.
+Any commercial use needs the written approval of Jos Vermaseren.
+Basically the graphics primitives are written in postscript, but the
+user sees only LaTeX commands, and never has to worry about postscript.
+This gives a considerable flexibility.
+The current version (5-mar-1998) supports color.
+
+The whole will work together with the dvips system of radical eye software.
+With other dvi to postscript converters or with systems that do not
+convert properly to postscript working is not garanteed.
+
+The manual is obtained by the commands
+latex axoman
+dvips axoman
+after which it should be available from the printer.
+
+Good Luck
+     Jos Vermaseren
