@@ -28,7 +28,7 @@ export GOPATH=/Users/npadmana/myWork/go
 export PATH=$PATH:~/myWork/go/bin
 
 # TeX
-export TEXINPUTS=.:~/texmf//:
+export TEXINPUTS=.:~/npadmana_config/texmf//:
 
 # Module stuff
 . /opt/local/Modules/3.2.8/init/zsh
