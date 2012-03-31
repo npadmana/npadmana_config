@@ -44,6 +44,11 @@ function! s:insert_gates()
 endfunction
 autocmd BufNewFile *.{h,hpp} call <SID>insert_gates()
 
+" Go 
+set rtp+=$GOROOT/misc/vim
+"filetype plugin indent on
+"syntax on
+
 
 " -----------------------------------------------------------------------------  
 " |                              Plug-ins                                     |
