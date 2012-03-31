@@ -15,7 +15,7 @@ export PATH=/opt/local/bin:/opt/local/sbin:$PATH
 export PATH=~/bin:$PATH
 export PATH=/opt/local/berkeley_upc/bin:$PATH
 export PATH=/opt/local/Library/Frameworks/Python.framework/Versions/2.7/bin/:$PATH
-export PATH=$PATH:~/QtSDK/Desktop/Qt/473/gcc/bin
+#export PATH=$PATH:~/QtSDK/Desktop/Qt/473/gcc/bin
 
 
 # My POSTGRES settings 
@@ -25,6 +25,7 @@ export MYPOSTGRES='postgresql://npadmana@localhost:5432'
 # Go
 export GOROOT=/usr/local/go
 export GOPATH=/Users/npadmana/myWork/go
+export PATH=$PATH:~/myWork/go/bin
 
 # TeX
 export TEXINPUTS=.:~/texmf//:
