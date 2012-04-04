@@ -24,8 +24,8 @@ export MYPOSTGRES='postgresql://npadmana@localhost:5432'
 
 # Go
 export GOROOT=/usr/local/go
-export GOPATH=/Users/npadmana/myWork/go
-export PATH=$PATH:~/myWork/go/bin
+export GOPATH=/Users/npadmana/myWork/go:/Users/npadmana/myWork/np_sandbox/go-sandbox
+#export PATH=$PATH:~/myWork/go/bin
 
 # TeX
 export TEXINPUTS=.:~/npadmana_config/texmf//:
