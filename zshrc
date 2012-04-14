@@ -10,7 +10,7 @@ PROMPT="[%m:%2c]$ "
 ## Completion
 zmodload zsh/complist
 fpath=( ~/npadmana_config/zfunctions "${fpath[@]}" )
-autoload -Uz tm
+#autoload -Uz tm
 autoload -U compinit && compinit
 
 ### If you want zsh's completion to pick up new commands in $path automatically
