@@ -15,6 +15,7 @@ alias mathgui='open /Applications/Mathematica.app/'
 alias op='open -a /Applications/Preview.app'
 alias vim='~/bin/vim'
 alias vi='~/bin/vim'
+alias rfss="smbclient //storage.yale.edu/home/dept-astro-620001-astronobs -W yale -U np274"
 
 #--------- LaTeX
 alias texit='latexmk -pvc -pdf' 
