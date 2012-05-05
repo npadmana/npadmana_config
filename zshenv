@@ -15,17 +15,11 @@ export PATH=/opt/local/bin:/opt/local/sbin:$PATH
 export PATH=~/bin:$PATH
 export PATH=/opt/local/berkeley_upc/bin:$PATH
 export PATH=/opt/local/Library/Frameworks/Python.framework/Versions/2.7/bin/:$PATH
-#export PATH=$PATH:~/QtSDK/Desktop/Qt/473/gcc/bin
 
 
 # My POSTGRES settings 
 export BDMPOSTGRES='postgresql://np274:rpf0904@localhost:63333'
 export MYPOSTGRES='postgresql://npadmana@localhost:5432'
-
-# Go
-export GOROOT=/usr/local/go
-export GOPATH=/Users/npadmana/myWork/go:/Users/npadmana/myWork/np_sandbox/go-sandbox
-export PATH=$PATH:~/myWork/go/bin:~/myWork/np_sandbox/go-sandbox/bin
 
 # TeX
 export TEXINPUTS=.:~/npadmana_config/texmf//:
