@@ -1,0 +1,8 @@
+#--------- Useful functions
+alias cls='clear'
+alias lo='exit'
+alias m='less'
+alias rmbackup='rm *~'
+alias ls='ls -F'
+alias ll='ls -l'
+
