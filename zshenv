@@ -5,6 +5,7 @@ export UNISONLOCALHOSTNAME=penelope
 export MYWORK='/Users/npadmana/myWork'
 export OPTDIR='/Users/npadmana/opt'
 export GSL_DIR=/opt/local
+export CUDA_DIR=/usr/local/cuda
 export BOOST_DIR=/opt/local
 export NPTOOLS_DIR=/Users/npadmana/myWork/nptools
 export EIGEN_DIR=/opt/local/include/eigen3
