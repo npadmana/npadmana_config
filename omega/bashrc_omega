@@ -2,3 +2,4 @@ export OPTDIR=/home/fas/padmanabhan/np274/software
 
 # Modules
 module load git
+module load cmake

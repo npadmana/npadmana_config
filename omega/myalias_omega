@@ -6,3 +6,7 @@ alias rmbackup='rm *~'
 alias ls='ls -F'
 alias ll='ls -l'
 
+
+#--- GPU related stuff
+alias gpu0='qsub -I -X -l procs=1,tpn=1,mem=5gb,other=gpu:1,walltime=1:00:00 -q m2070'
+alias gpu1='qsub -I -X -l procs=1,tpn=1,mem=5gb,other=gpu:1,walltime=1:00:00 -q m2090'
