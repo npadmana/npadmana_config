@@ -1,0 +1,9 @@
+-I/opt/local/include/gcc44/c++/
+-I/opt/local/include/gcc44/c++//x86_64-apple-darwin10/
+-I/opt/local/include/gcc44/c++//backward/
+-I/opt/local/include/
+-I/opt/local/lib/gcc44/gcc/x86_64-apple-darwin10/4.4.7/include/
+-I/opt/local/lib/gcc44/gcc/x86_64-apple-darwin10/4.4.7/include-fixed/
+-I/usr/include/
+-I/System/Library/Frameworks/
+-I/Library/Frameworks/

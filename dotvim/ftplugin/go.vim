@@ -1,1 +1,1 @@
-setlocal omnifunc=gocomplete#Complete
+"setlocal omnifunc=gocomplete#Complete
