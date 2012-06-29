@@ -12,7 +12,7 @@ export EIGEN_DIR=/opt/local/include/eigen3
 export FFTW_DIR=/opt/local
 
 # PATH setups
-export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+export PATH=/opt/local/bin:/opt/local/sbin:/usr/local/bin:$PATH
 export PATH=~/bin:$PATH
 export PATH=/opt/local/berkeley_upc/bin:$PATH
 export PATH=/opt/local/Library/Frameworks/Python.framework/Versions/2.7/bin/:$PATH
