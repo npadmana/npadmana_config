@@ -17,6 +17,11 @@ export PATH=~/bin:$PATH
 export PATH=/opt/local/berkeley_upc/bin:$PATH
 export PATH=/opt/local/Library/Frameworks/Python.framework/Versions/2.7/bin/:$PATH
 
+# nputils
+export PATH=~/myWork/nputils/install/bin:~/myWork/nputils/local/bin:$PATH
+export DYLD_LIBRARY_PATH=~/myWork/nputils/install/lib:~/myWork/nputils/local/lib:$PATH
+
+
 
 # My POSTGRES settings 
 export BDMPOSTGRES='postgresql://np274:rpf0904@localhost:63333'
