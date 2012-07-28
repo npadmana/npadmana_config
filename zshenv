@@ -4,12 +4,12 @@ export UNISONLOCALHOSTNAME=penelope
 # Other env variables
 export MYWORK='/Users/npadmana/myWork'
 export OPTDIR='/Users/npadmana/opt'
-export GSL_DIR=/opt/local
+#export GSL_DIR=/opt/local
 export CUDA_DIR=/usr/local/cuda
-export BOOST_DIR=/opt/local
+#export BOOST_DIR=/opt/local
 export NPTOOLS_DIR=/Users/npadmana/myWork/nptools
-export EIGEN_DIR=/opt/local/include/eigen3
-export FFTW_DIR=/opt/local
+#export EIGEN_DIR=/opt/local/include/eigen3
+#export FFTW_DIR=/opt/local
 
 # PATH setups
 export PATH=/opt/local/bin:/opt/local/sbin:/usr/local/bin:$PATH
@@ -21,6 +21,8 @@ export PATH=/opt/local/Library/Frameworks/Python.framework/Versions/2.7/bin/:$PA
 export PATH=~/myWork/nputils/install/bin:~/myWork/nputils/local/bin:$PATH
 export DYLD_LIBRARY_PATH=~/myWork/nputils/install/lib:~/myWork/nputils/local/lib:$PATH
 
+# R
+export R_LIBS_USER=~/myWork/Rlibrary
 
 
 # My POSTGRES settings 
