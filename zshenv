@@ -14,7 +14,7 @@ export NPTOOLS_DIR=/Users/npadmana/myWork/nptools
 # PATH setups
 export PATH=/opt/local/bin:/opt/local/sbin:/usr/local/bin:$PATH
 export PATH=~/bin:$PATH
-export PATH=/usr/local/openmpi/v1.6-gcc47:$PATH
+export PATH=/usr/local/openmpi/v1.6-gcc47/bin:$PATH
 export PATH=/opt/local/berkeley_upc/bin:$PATH
 export PATH=/opt/local/Library/Frameworks/Python.framework/Versions/2.7/bin/:$PATH
 
