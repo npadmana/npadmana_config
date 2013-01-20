@@ -25,6 +25,10 @@ export DYLD_LIBRARY_PATH=~/myWork/nputils/install/lib:~/myWork/nputils/local/lib
 # R
 export R_LIBS_USER=~/myWork/Rlibrary
 
+# Go stuff
+export GOPATH=~/myWork/npadmana-go
+export PATH=~/myWork/npadmana-go/bin:$PATH
+
 
 # My POSTGRES settings 
 export BDMPOSTGRES='postgresql://np274:rpf0904@localhost:63333'
