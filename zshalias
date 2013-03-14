@@ -23,6 +23,10 @@ alias mygodoc="godoc -http=:6060 -path=~/myWork/npadmana-go/src"
 #--------- LaTeX
 alias texit='latexmk -pvc -pdf' 
 
+#------ Eclipse
+alias eclipse="open ~/eclipse4.2/Eclipse.app"
+
+
 #-------- SSH aliases
 # LBL machines
 # Note that tobaryon requires both your OTP and your baryon ssh keyphrase
