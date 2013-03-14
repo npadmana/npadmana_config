@@ -20,14 +20,16 @@ export PATH=/opt/local/Library/Frameworks/Python.framework/Versions/2.7/bin/:$PA
 
 # nputils
 export PATH=~/myWork/nputils/install/bin:~/myWork/nputils/local/bin:$PATH
-export DYLD_LIBRARY_PATH=~/myWork/nputils/install/lib:~/myWork/nputils/local/lib:$PATH
+#export DYLD_LIBRARY_PATH=~/myWork/nputils/install/lib:~/myWork/nputils/local/lib:$DYLD_LIBRARY_PATH
+#export LIBRARY_PATH=~/myWork/nputils/local/lib:$LIBRARY_PATH
+#export C_INCLUDE_PATH=~/myWork/nputils/local/include
 
 # R
 export R_LIBS_USER=~/myWork/Rlibrary
 
 # Go stuff
-export GOPATH=~/myWork/npadmana-go
-export PATH=~/myWork/npadmana-go/bin:$PATH
+export GOPATH=~/myWork/gocode
+export PATH=~/myWork/gocode/bin:$PATH
 
 
 # My POSTGRES settings 
