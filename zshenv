@@ -48,7 +48,7 @@ export PATH=$PATH:~/D/dmd2/osx/bin:~/D/ldc/ldc2/bin:~/D/bin
 export GSL_DIR=/opt/local
 
 # Module stuff
-#. /opt/local/Modules/3.2.8/init/zsh
+. /opt/local/Modules/3.2.8/init/zsh
 #module use /Users/npadmana/myWork/modules
 
 #module load ROOTutils
