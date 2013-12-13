@@ -44,7 +44,8 @@ export MYPOSTGRES='postgresql://npadmana@localhost:5432'
 export TEXINPUTS=.:~/texmf//:
 
 # D
-export PATH=$PATH:~/D/dmd2/osx/bin
+export PATH=$PATH:~/D/dmd2/osx/bin:~/D/ldc/ldc2/bin:~/D/bin
+export GSL_DIR=/opt/local
 
 # Module stuff
 #. /opt/local/Modules/3.2.8/init/zsh
