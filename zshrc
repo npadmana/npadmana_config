@@ -32,3 +32,5 @@ zstyle ':completion:*' menu select
 zstyle ':completion:*' verbose yes
 
 source ~/npadmana_config/zshalias
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting

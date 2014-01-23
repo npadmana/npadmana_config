@@ -17,8 +17,15 @@ alias vim='~/bin/vim'
 alias vi='~/bin/vim'
 alias rfss="smbclient //storage.yale.edu/home/dept-astro-620001-astronobs -W yale -U np274"
 
+#------ Go
+alias mygodoc="godoc -http=:6060 -path=~/myWork/npadmana-go/src"
+
 #--------- LaTeX
 alias texit='latexmk -pvc -pdf' 
+
+#------ Eclipse
+alias eclipse="open ~/eclipse4.2/Eclipse.app"
+
 
 #-------- SSH aliases
 # LBL machines
