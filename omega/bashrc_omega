@@ -1,5 +1,21 @@
 export OPTDIR=/home/fas/padmanabhan/np274/software
 
 # Modules
-module load git
-module load cmake
+#module load git
+#module load cmake
+module load tmux
+
+
+# Other useful modules
+module load RH6/Langs/GCC/4.7.2
+module load RH6/MPI/OpenMPI/1.6.5 
+module load Libs/GSL
+module load RH6/Tools/Cmake/2.8.5
+module load Tools/GIT/1.8.3.4
+
+# D language links
+export PATH=$HOME/D/dmd2/linux/bin64:$PATH
+export LD_LIBRARY_PATH=$HOME/D/lib:$HOME/D/dmd2/linux/lib64:$HOME/D/npD/lib:$LD_LIBRARY_PATH
+export PATH=$HOME/llvm/bin:$PATH
+export LD_LIBRARY_PATH=$HOME/llvm/lib:$LD_LIBRARY_PATH
+export DWORK=$HOME/Dwork
